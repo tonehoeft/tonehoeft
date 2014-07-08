@@ -3427,6 +3427,7 @@ p {
   .writing > .container-fluid:nth-of-type(n) .row .col-xs-7 ul li {
     list-style: none;
     text-align: center;
+    padding-top: 10px;
   }
 }
 /* line 1, ../sass/sections/_product.scss */
@@ -3528,6 +3529,7 @@ p {
   .product > .container-fluid:nth-of-type(n) .row .col-xs-7 ul li {
     list-style: none;
     text-align: center;
+    padding-top: 10px;
   }
 }
 /* line 1, ../sass/sections/_code.scss */
@@ -3626,6 +3628,7 @@ p {
   .code > .container-fluid:nth-of-type(n) .row .col-xs-7 ul li {
     list-style: none;
     text-align: center;
+    padding-top: 10px;
   }
 }
 /* line 1, ../sass/sections/_contact.scss */
