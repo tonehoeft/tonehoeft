@@ -1,1 +1,1 @@
-My personal website and the start of me trying to learn how to use GitHub.
+Personal website for Tone Hoeft built with Twitter Bootstrap and SASS.

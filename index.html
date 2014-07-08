@@ -1,42 +1,71 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<link href='http://fonts.googleapis.com/css?family=Nunito|Amaranth' rel='stylesheet' type='text/css'>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Tone Hoeft</title>
-<link rel="stylesheet" type="text/css" href="global.css" />
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-44052036-3', 'tonehoeft.com');
-  ga('send', 'pageview');
-
-</script>
+  <meta charset="UTF-8">
+  <meta name="description" content="Homepage for Tone Hoeft: Writer, Editor, Product Management, Coder, and Designer">
+  <meta name="author" content="Tone Hoeft">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="stylesheets/application.css">
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="sass/vendor/javascripts/bootstrap/collapse.js"></script>
+  <title>Tone Hoeft</title>
 </head>
 
-<body id="home">
+<body>
+  <nav class="navbar navbar-default navbar-static-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          <div class="navbar-brand">
+            <a href="index.html"><img class="" alt="Tone Hoeft" src="images/caps_logo.png"></a>
+            <a href="index.html">Tone Hoeft</a>
+          </div>
+      </div>
+      <div class="collapse navbar-collapse" id="navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="writing.html">Writing & Editing</a></li>
+          <li><a href="product.html">Product Management</a></li>
+          <li><a href="code.html">Code & Design</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
-<div id="center-container">
-
-<div id="body-home"> 
-<div id="topper">
-<h3> I'm Tone Hoeft. <br /> <br /> </h3> </div>
-
-<div id="headings">
-<h1 class="writer"> <a href="writing.html">Writer</a> </h1>
-<h1 class="designer"> <a href="design.html">Designer</a> </h1>
-<h1 class="producer"> <a href="production.html">Producer</a> </h1>
-</div>
-
-<br />
-
-<h3 class="contact"> <a href="contact.html">Let's work together!</a> </h3>
-
-</div>
-</div>
+  <div class="homepage container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <img class="img-responsive visible-lg visible-md visible-sm" src="images/hathero8.png" alt="Tone Hoeft">
+      </div>
+      <div class="col-xs-12">
+        <img class="img-responsive visible-xs" src="images/hathero6.png" alt="Tone Hoeft">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-4">
+        <a href="writing.html"><img class="img-responsive" src="images/writingb.png" alt="Writing & Editing"></a>
+        <a href="writing.html"><h3>Writing & Editing</h3></a>
+        <p>Writing isn’t just about putting words on paper anymore. With credits for places like ESPN, Disney, and Hallmark Channel in television, digital, and print, I can make words work in any medium.</p>
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <a href="product.html"><img class="img-responsive" src="images/curveballc.png" alt="Writing and Editing"></a>
+        <a href="product.html"><h3>Product Management</h3></a>
+        <p>Great product management is about learning how to adapt to curveballs. With experience as a producer for brands like Pepsi, LucasFilm, and Mattel and as an editor for digital and print publications, I can catch any curveball.</p>
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <a href="code.html"><img class="img-responsive" src="images/codec.png" alt="Code & Design"></a>
+        <a href="code.html"><h3>Code & Design</h3></a>
+        <p>Design and code are the yin and yang that make up the modern web, which is why I’ve dedicated myself to learning more code to supplement my design experience for places like Ubisoft, McDonald’s, and TLC.</p>
+      </div>
+    </div>
+  </div>
 
 </body>
 </html>
