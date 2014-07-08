@@ -1,0 +1,50 @@
+.writing .navbar-nav > li:first-of-type > a {
+  color: $brand-primary;
+  &:hover, &:active {
+    color: lighten($brand-primary, 20%);
+  }
+}
+
+.writing > .container-fluid {
+  border-bottom: 2px solid #000;
+  &:nth-of-type(odd) {
+    @include background-left(lighten($brand-primary, 25%));
+  }
+  &:nth-of-type(even) {
+    @include background-right(lighten(desaturate($brand-danger, 5%), 5%));
+  }
+  &:first-of-type {
+    background-image: url("../images/yellowhat25b.png");
+    background-size: 37%;
+    background-position: 5% 50%;
+  }
+  &:nth-of-type(2) {
+    background-image: url("../images/HDA5a.png");
+  }
+  &:nth-of-type(3) {
+    background-image: url("../images/io910.png");
+  }
+  &:nth-of-type(4) {
+    background-image: url("../images/PR10.png");
+  }
+  &:nth-of-type(5) {
+    background-image: url("../images/Youtube10.png");
+  }
+  &:nth-of-type(6) {
+    background-image: url("../images/Disney10.png");
+    border-bottom: 0;
+  }
+}
+
+.writing .col-xs-7 {
+  @include page-content-styles;
+}
+
+@media screen and (max-width: 767px) {
+  .writing > .container-fluid:nth-of-type(n) {
+    @include background-resize-mobile;
+    .row .col-xs-7 {
+      @include background-content-mobile;
+    }
+  }
+}

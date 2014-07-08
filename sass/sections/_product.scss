@@ -1,0 +1,42 @@
+.product .navbar-nav > li:nth-of-type(2) > a {
+  color: $brand-success;
+  &:hover, &:active {
+    color: lighten($brand-success, 20%);
+  }
+}
+
+.product > .container-fluid {
+  border-bottom: 2px solid #000;
+  &:nth-of-type(odd) {
+    @include background-right(lighten($brand-success, 20%));
+  }
+  &:nth-of-type(even) {
+    @include background-left(lighten(desaturate($brand-danger, 5%), 5%));
+  }
+  &:first-of-type {
+    background-image: url("../images/redhat25b.png");
+  }
+  &:nth-of-type(2) {
+    background-image: url("../images/HDA5a.png");
+  }
+  &:nth-of-type(3) {
+    background-image: url("../images/PR10.png");
+  }
+  &:nth-of-type(4) {
+    background-image: url("../images/grassroots10.png");
+    border: 0px;
+  }
+}
+
+.product .col-xs-7 {
+  @include page-content-styles;
+}
+
+@media screen and (max-width: 767px) {
+  .product > .container-fluid:nth-of-type(n) {
+    @include background-resize-mobile;
+    .row .col-xs-7 {
+      @include background-content-mobile;
+    }
+  }
+}

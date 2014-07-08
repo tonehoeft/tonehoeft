@@ -1,0 +1,58 @@
+@mixin page-content-styles {
+  padding: 50px 0 60px 0;
+  h1 {
+    color: lighten($gray-lighter, 10%);
+    text-shadow: -1px 1px #272727;
+  }
+  p {
+    color: #232323;
+  }
+  ul {
+    padding: 10px 0 0 45px;
+    li {
+      font-family: Lato, Georgia, "Time New Roman", Times, serif;
+      font-size: floor(($font-size-base * 1.25));
+    }
+  }
+  a {
+    color: #232323;
+    text-decoration: underline;
+    &:hover {
+      color: #fdfdfd;
+    }
+  }
+}
+
+@mixin background-left($bg-color) {
+  background: $bg-color;
+  background-size: 30%;
+  background-repeat: no-repeat;
+  background-position: 10% 40%;
+}
+
+@mixin background-right($bg-color) {
+  background: $bg-color;
+  background-size: 30%;
+  background-repeat: no-repeat;
+  background-position: 90% 50%;
+}
+
+@mixin background-resize-mobile {
+  background-size: 95%;
+  background-position: 50% 50%;
+}
+
+@mixin background-content-mobile {
+  float: none !important;
+  width: 100%;
+  margin: -10px auto 0 auto;
+  padding: 50px 30px 60px 30px;
+  text-align: center;
+  ul {
+    padding: 10px 0 0 0;
+    li {
+    list-style: none;
+    text-align: center;
+    }
+  }
+}
