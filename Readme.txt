@@ -1,1 +1,1 @@
-Personal website for Tone Hoeft built with Twitter Bootstrap and SASS.
+Personal website for Tone Hoeft built with Twitter Bootstrap and Sass.
