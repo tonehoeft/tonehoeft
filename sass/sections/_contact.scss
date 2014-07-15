@@ -12,7 +12,7 @@ body.contact {
 .contact h1 {
   text-align: center;
   color: lighten($gray-lighter, 10%);
-  text-shadow: -1px 1px #272727;
+  text-shadow: 2px 2px #353535;
   padding-top: 10px;
   font-size: floor(($font-size-base * 4.0));
 }
@@ -55,7 +55,7 @@ body.contact {
     padding-top: 90px;
   }
   .contact h1 {
-    font-size: floor(($font-size-base * 2.6));
+    font-size: floor(($font-size-base * 2.4));
   }
 }
 

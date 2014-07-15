@@ -14,7 +14,7 @@
     @include background-right(lighten(desaturate($brand-danger, 5%), 5%));
   }
   &:first-of-type {
-    background-image: url("../images/yellowhat25b.png");
+    background-image: url("../images/yellowhat25c.png");
     background-size: 37%;
     background-position: 5% 50%;
   }
@@ -34,6 +34,9 @@
     background-image: url("../images/Disney10.png");
     border-bottom: 0;
   }
+}
+
+.writing .col-xs-3 img {
 }
 
 .writing .col-xs-7 {

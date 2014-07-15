@@ -1,15 +1,18 @@
-.navbar-brand > a {
-  color: $navbar-default-link-color;
-  text-decoration: none;
-  font-size: ceil(($font-size-large * 1.6));
-  > img {
-    float: left;
-    height: 45px;
-    margin-top: -13px;
-    padding-right: 5px;
-  }
-  &:hover, &:active {
-    color: $gray-lighter;
+.navbar-brand {
+  padding-left: 10px;
+  > a {
+    color: $navbar-default-link-color;
+    text-decoration: none;
+    font-size: ceil(($font-size-large * 1.6));
+    > img {
+      float: left;
+      height: 45px;
+      margin-top: -13px;
+      padding-right: 5px;
+    }
+    &:hover, &:active {
+      color: $gray-lighter;
+    }
   }
 }
 
