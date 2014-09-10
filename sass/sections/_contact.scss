@@ -1,12 +1,13 @@
-.contact .navbar-nav > li:nth-of-type(4) > a {
+.navbar-nav .contactnav a.active  {
   color: $brand-danger;
   &:hover, &:active {
     color: lighten($brand-danger, 10%);
   }
 }
 
-body.contact {
+.contact {
     background: desaturate($brand-danger, 5%);
+    height: 100%;
 }
 
 .contact h1 {

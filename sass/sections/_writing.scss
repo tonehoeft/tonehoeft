@@ -1,4 +1,4 @@
-.writing .navbar-nav > li:first-of-type > a {
+.navbar-nav .writingnav a.active {
   color: $brand-primary;
   &:hover, &:active {
     color: lighten($brand-primary, 20%);
@@ -34,9 +34,6 @@
     background-image: url("../images/Disney10.png");
     border-bottom: 0;
   }
-}
-
-.writing .col-xs-3 img {
 }
 
 .writing .col-xs-7 {

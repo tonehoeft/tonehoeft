@@ -3323,11 +3323,11 @@ p {
   }
 }
 /* line 1, ../sass/sections/_writing.scss */
-.writing .navbar-nav > li:first-of-type > a {
+.navbar-nav .writingnav a.active {
   color: #f4b600;
 }
 /* line 3, ../sass/sections/_writing.scss */
-.writing .navbar-nav > li:first-of-type > a:hover, .writing .navbar-nav > li:first-of-type > a:active {
+.navbar-nav .writingnav a.active:hover, .navbar-nav .writingnav a.active:active {
   color: #ffd55b;
 }
 
@@ -3377,7 +3377,7 @@ p {
   border-bottom: 0;
 }
 
-/* line 42, ../sass/sections/_writing.scss */
+/* line 39, ../sass/sections/_writing.scss */
 .writing .col-xs-7 {
   padding: 50px 0 60px 0;
 }
@@ -3410,12 +3410,12 @@ p {
 }
 
 @media screen and (max-width: 767px) {
-  /* line 47, ../sass/sections/_writing.scss */
+  /* line 44, ../sass/sections/_writing.scss */
   .writing > .container-fluid:nth-of-type(n) {
     background-size: 95%;
     background-position: 50% 50%;
   }
-  /* line 49, ../sass/sections/_writing.scss */
+  /* line 46, ../sass/sections/_writing.scss */
   .writing > .container-fluid:nth-of-type(n) .row .col-xs-7 {
     float: none !important;
     width: 100%;
@@ -3436,11 +3436,11 @@ p {
   }
 }
 /* line 1, ../sass/sections/_product.scss */
-.product .navbar-nav > li:nth-of-type(2) > a {
+.navbar-nav .productnav a.active {
   color: #ff3c06;
 }
 /* line 3, ../sass/sections/_product.scss */
-.product .navbar-nav > li:nth-of-type(2) > a:hover, .product .navbar-nav > li:nth-of-type(2) > a:active {
+.navbar-nav .productnav a.active:hover, .navbar-nav .productnav a.active:active {
   color: #ff8c6c;
 }
 
@@ -3539,11 +3539,11 @@ p {
   }
 }
 /* line 1, ../sass/sections/_code.scss */
-.code .navbar-nav > li:nth-of-type(3) > a {
+.navbar-nav .codenav a.active {
   color: #aad2c2;
 }
 /* line 3, ../sass/sections/_code.scss */
-.code .navbar-nav > li:nth-of-type(3) > a:hover, .code .navbar-nav > li:nth-of-type(3) > a:active {
+.navbar-nav .codenav a.active:hover, .navbar-nav .codenav a.active:active {
   color: #edf5f2;
 }
 
@@ -3639,20 +3639,21 @@ p {
   }
 }
 /* line 1, ../sass/sections/_contact.scss */
-.contact .navbar-nav > li:nth-of-type(4) > a {
+.navbar-nav .contactnav a.active {
   color: #93d3e1;
 }
 /* line 3, ../sass/sections/_contact.scss */
-.contact .navbar-nav > li:nth-of-type(4) > a:hover, .contact .navbar-nav > li:nth-of-type(4) > a:active {
+.navbar-nav .contactnav a.active:hover, .navbar-nav .contactnav a.active:active {
   color: #bbe3ec;
 }
 
 /* line 8, ../sass/sections/_contact.scss */
-body.contact {
+.contact {
   background: #96d1de;
+  height: 100%;
 }
 
-/* line 12, ../sass/sections/_contact.scss */
+/* line 13, ../sass/sections/_contact.scss */
 .contact h1 {
   text-align: center;
   color: white;
@@ -3661,61 +3662,61 @@ body.contact {
   font-size: 56px;
 }
 
-/* line 21, ../sass/sections/_contact.scss */
+/* line 22, ../sass/sections/_contact.scss */
 .contact > .container-fluid > .container .col-xs-4 {
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 115px;
 }
-/* line 25, ../sass/sections/_contact.scss */
+/* line 26, ../sass/sections/_contact.scss */
 .contact > .container-fluid > .container .col-xs-4:first-of-type {
   background-image: url("../images/vhatrack1a.png");
 }
-/* line 28, ../sass/sections/_contact.scss */
+/* line 29, ../sass/sections/_contact.scss */
 .contact > .container-fluid > .container .col-xs-4:nth-of-type(2) {
   background-image: url("../images/vhatrack2a.png");
 }
-/* line 31, ../sass/sections/_contact.scss */
+/* line 32, ../sass/sections/_contact.scss */
 .contact > .container-fluid > .container .col-xs-4:nth-of-type(3) {
   background-image: url("../images/vhatrack3a.png");
 }
-/* line 34, ../sass/sections/_contact.scss */
+/* line 35, ../sass/sections/_contact.scss */
 .contact > .container-fluid > .container .col-xs-4 a:hover img {
   opacity: 0.95;
 }
-/* line 38, ../sass/sections/_contact.scss */
+/* line 39, ../sass/sections/_contact.scss */
 .contact > .container-fluid > .container .row {
   padding-top: 25px;
   padding-bottom: 25px;
 }
-/* line 41, ../sass/sections/_contact.scss */
+/* line 42, ../sass/sections/_contact.scss */
 .contact > .container-fluid > .container .row:nth-of-type(2) .col-xs-4:first-of-type a:hover img {
   opacity: 0.85;
 }
 
 @media screen and (min-width: 1201px) {
-  /* line 48, ../sass/sections/_contact.scss */
+  /* line 49, ../sass/sections/_contact.scss */
   .contact > .container-fluid > .container .col-xs-4 {
     padding-top: 140px;
   }
 }
 @media screen and (max-width: 767px) {
-  /* line 54, ../sass/sections/_contact.scss */
+  /* line 55, ../sass/sections/_contact.scss */
   .contact > .container-fluid > .container .col-xs-4 {
     padding-top: 90px;
   }
 
-  /* line 57, ../sass/sections/_contact.scss */
+  /* line 58, ../sass/sections/_contact.scss */
   .contact h1 {
     font-size: 33px;
   }
 }
 @media screen and (max-width: 560px) {
-  /* line 63, ../sass/sections/_contact.scss */
+  /* line 64, ../sass/sections/_contact.scss */
   .contact > .container-fluid > .container .col-xs-4 {
     padding-top: 50px;
   }
-  /* line 65, ../sass/sections/_contact.scss */
+  /* line 66, ../sass/sections/_contact.scss */
   .contact > .container-fluid > .container .col-xs-4:nth-of-type(2) {
     margin-left: -2px;
     margin-right: -2px;
