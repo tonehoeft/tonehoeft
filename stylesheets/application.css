@@ -3184,20 +3184,20 @@ tbody.collapse.in {
   font-size: 16px;
 }
 /* line 27, ../sass/sections/_global.scss */
-.navbar-nav > li:first-of-type > a:hover, .navbar-nav > li:first-of-type > a:active {
-  color: #f4b600;
+.navbar-nav > li:first-of-type > a:hover, .navbar-nav > li:first-of-type > a.active {
+  color: #f4b600 !important;
 }
 /* line 30, ../sass/sections/_global.scss */
-.navbar-nav > li:nth-of-type(2) > a:hover, .navbar-nav > li:nth-of-type(2) > a:active {
-  color: #ff3c06;
+.navbar-nav > li:nth-of-type(2) > a:hover, .navbar-nav > li:nth-of-type(2) > a.active {
+  color: #ff3c06 !important;
 }
 /* line 33, ../sass/sections/_global.scss */
-.navbar-nav > li:nth-of-type(3) > a:hover, .navbar-nav > li:nth-of-type(3) > a:active {
-  color: #aad2c2;
+.navbar-nav > li:nth-of-type(3) > a:hover, .navbar-nav > li:nth-of-type(3) > a.active {
+  color: #aad2c2 !important;
 }
 /* line 36, ../sass/sections/_global.scss */
-.navbar-nav > li:nth-of-type(4) > a:hover, .navbar-nav > li:nth-of-type(4) > a:active {
-  color: #93d3e1;
+.navbar-nav > li:nth-of-type(4) > a:hover, .navbar-nav > li:nth-of-type(4) > a.active {
+  color: #93d3e1 !important;
 }
 
 /* line 41, ../sass/sections/_global.scss */
