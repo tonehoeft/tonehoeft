@@ -1,0 +1,316 @@
+{
+	"projects":[
+		{
+			"project":{
+				"id":0,
+				"name":"Mattel Games Campaign",
+				"descrip_long":"Mattel Games' flagship spring TVC campaign centered around Pictionary, Scrabble, and Uno",
+				"descrip_short":"Spring TVC campaign for Pictionary, Scrabble and Uno",
+				"client":"Mattel Games",
+				"agency":"Pereira & O'Dell",
+				"prod_co":"MRB Productions",
+				"summary":"Every spring, Mattel Games targets parents and kids before summer vacation season starts, and for this TV campaign, Mattel Games wanted to create a series of spots showcasing the bold new branding for each of their flagship titles: Uno red, Pictionary yellow, and Scrabble green. <br /> <br /> Each spot brings the respective game’s primary color to life without sacrificing that distinct bright Mattel Games look. Filmed over the course of two days on a single soundstage, we were able to maximize production dollars by redressing the same living room sets while giving every spot a distinct feel by utilizing shades of each brand color in our art direction. <br /> <br /> The series of spots successfully introduced Mattel Games’ bold new direction for their product packaging while keeping true to the spirit of fun of the games enclosed inside. <br /> <br /> They say work isn’t supposed to be all fun and games, but when you’re working on classics like Scrabble, Pictionary, and Uno, it’s hard for it not to be.",
+				"media1_link":"https://player.vimeo.com/video/130516882",
+				"media1_title":"Pictionary Family",
+				"media2_link":"https://player.vimeo.com/video/135405380",
+				"media2_title":"Scrabble Tankers",
+				"media3_link":"https://player.vimeo.com/video/130516880",
+				"media3_title":"UNO Blast",
+				"img_jumbo":"000_Mattel7.jpg",
+				"img_banner":"000_Mattel5.jpg",
+				"img_back":"000_Mattel6.jpg",
+				"url":"/mattelgames"
+			}
+		},
+		{
+			"project":{
+				"id":1,
+				"name":"Kyle Busch Goes Hybrid",
+				"descrip_long":"Kyle Busch gives the racecar treatment to the Toyota Camry hybrid to see how it stacks up against the big boys",
+				"descrip_short":"Digital spot for video pre-roll and Toyota’s YouTube channel",
+				"client":"Toyota",
+				"agency":"Saatchi & Saatchi",
+				"prod_co":"MRB Productions",
+				"summary":"Just because you drive a hybrid car doesn’t mean you have to sacrifice performance. And to prove it, Toyota asked Kyle Busch to push the latest Toyota Camry hybrid to the limit to see if it could stack up against the big boys.  <br /> <br /> Kyle had a great time seeing what the Camry was made of by taking it for some high speed laps, testing not only the limits of the Camry, but our camera crew inside the car as well. <br /> <br /> Filmed on Kyle’s preferred racetrack, we were able to get a lot of coverage in a short amount of time, allowing us to create not only the full spot, but a bunch of shortened alts for pre-roll. This allowed the media agency to test which version had the highest completion rates across all of their digital video ad buys. <br /> <br /> Beyond ad impressions – the spot raked up over 400,000 views on Toyota’s YouTube channel organically, proving there’s a growing audience out there for eco-friendly speed racers.",
+				"media1_link":"https://player.vimeo.com/video/110201050",
+				"media1_title":"Kyle Busch on the Racetrack",
+				"img_jumbo":"001_Toyota4.jpg",
+				"img_banner":"001_Toyota3.jpg",
+				"img_back":"001_Toyota1.jpg",
+				"url":"/kylebusch"
+			}
+		},
+		{
+			"project":{
+				"id":2,
+				"name":"Lockout Professionals",
+				"descrip_long":"Blake Griffin and Kevin Love try their hand at sketch comedy for the ESPYS during the NBA lockout",
+				"descrip_short":"ESPYS sketch starring Blake Griffin and Kevin Love",
+				"client":"ESPN",
+				"agency":"Maggie Vision",
+				"prod_co":"MRB Productions",
+				"summary":"It’s amazing what you’re willing to do when you’ve got free time on your hands. During the most recent NBA Lockout, Blake Griffin and Kevin Love put their free time to use by trying out a little comedic acting in this sketch for the ESPYS. <br /> <br /> Written and directed by Seth Meyers, the sketch imagines what NBA players like Griffin and Love could moonlight as during the lockout. DJs, detectives, you name it, these all-stars were game for pretty much everything. And with special appearances by Tyson Chandler, Metta World Peace, and Adrian Peterson, everyone got to join in the fun. <br /> <br /> The sketch tore down the house during the ESPYS and went on to find a life of its own online, spreading across various YouTube channels and hosted by different digital publications, getting millions of views across all outlets and platforms. <br /> <br /> There are a lot of events that bring athletes together, but the ESPYS is one of the few that can get them to try their hand at acting.",
+				"media1_link":"https://player.vimeo.com/video/86478423",
+				"media1_title":"ESPYS: NBA Lockout Professionals",
+				"img_jumbo":"002_Lockout2.jpg",
+				"img_banner":"002_Lockout5.jpg",
+				"img_back":"002_Lockout6.jpg",
+				"url":"/nbalockout"
+			}
+		},
+		{
+			"project":{
+				"id":3,
+				"name":"NHL Tonight Promo",
+				"descrip_long":"Commercial spot for NHL Network to announce their new nightly recap show, NHL Tonight",
+				"descrip_short":"TV commercial spot for NHL Tonight",
+				"client":"NHL Tonight",
+				"agency":"NHL Network",
+				"prod_co":"MRB Productions",
+				"summary":"If you wanted to watch a nightly recap show of the biggest hockey stories every night, where would you turn? NHL Network wanted hockey fans to think of them as the answer to this big question with their new show NHL Tonight. <br /> <br /> NHL Tonight leveraged their biggest asset to build up buzz for the show: NHL players. The spot showcases some of the NHL’s biggest stars catching up on hockey news with NHL Tonight during their morning routines. Starring players like Zach Parise, Steve Stamkos, and Saku Koivu, the spot was a hockey lovers dream to put together. <br /> <br /> Production involved getting local crews at each city to film their respective local NHL star. And thanks to a well-defined pre-production book, you’d never know the difference, coming together in one cohesive, unified spot. <br /> <br /> The TV spot went on to raise awareness and successfully launched NHL Tonight, becoming NHL Network’s flagship show.",
+				"media1_link":"https://player.vimeo.com/video/80042278",
+				"media1_title":"10PM: NHL Tonight",
+				"img_jumbo":"003_NHL3.jpg",
+				"img_banner":"003_NHL2.jpg",
+				"img_back":"003_NHL7.jpg",
+				"url":"/nhltonight"
+			}
+		},
+		{
+			"project":{
+				"id":4,
+				"name":"Heart of a Champion",
+				"descrip_long":"Rob Riggle shows the world how seriously he takes fantasy football in this comedy sketch for the ESPYS",
+				"descrip_short":"ESPYS sketch starring Rob Riggle, Nick Kroll, and Matt Walsh",
+				"client":"ESPN",
+				"agency":"Maggie Vision",
+				"prod_co":"MRB Productions",
+				"summary":"For some people, Fantasy Football isn’t just a game – it’s an intense throwdown competition. In this ESPYS sketch, Rob Riggle gets members of his fantasy league to show just how far some people will go to get that W. <br /> <br /> As the reigning champion of his fantasy league, Riggle goes around rubbing it in everyone’s faces – including his kids’ teacher and next-door neighbors. Written by Rob Riggle, it’s the most madcap depiction you’ll ever see of fantasy football. <br /> <br /> Thanks to guest appearances by Tom Brady, Nick Kroll, and Matt Walsh, the spot went on after the ESPYS to become a highly viewed piece of evergreen content on ESPN.com, getting press coverage ranging from sports to entertainment publications.  <br /> <br /> If you thought you took fantasy football seriously, then you’ll have to think again after seeing Rob Riggle in action in this ESPYS sketch.", 
+				"media1_link":"https://player.vimeo.com/video/110201044",
+				"media1_title":"ESPYS: Heart of a Champion",
+				"img_jumbo":"004_HOC1.jpg",
+				"img_banner":"004_HOC3.jpg",
+				"img_back":"004_HOC2.jpg",
+				"url":"/heartofachampion"
+			}
+		},
+		{
+			"project":{
+				"id":5,
+				"name":"Do Us a Flavor",
+				"descrip_long":"Wayne Brady improvises songs about chips in this real-time social media campaign for Lay’s ‘Do Us a Flavor’",
+				"descrip_short":"Lay's 'Do Us a Flavor' campaign featuring Wayne Brady",
+				"client":"Lay's",
+				"agency":"Deep Focus",
+				"prod_co":"MRB Productions",
+				"summary":"With the success of an annual campaign like Lay’s ‘Do Us a Flavor’, the challenge becomes: how do you top yourself year after year? By bringing in the master of improvisation himself, Wayne Brady. <br /> <br/> To kickoff the annual competition, Lay's enlisted Brady to improvise jingles in response to fan submitted flavors on Twitter. Brady picked his favorites, threw down a track, and Lay's tweeted back to users with a link to a YouTube video with the custom jingle by Brady. <br /> <br /> Every massive real time social campaign is a test in logistics and planning. The operation required the team to rehearse for two days straight to perfect the flow, ensuring that users were getting back songs in real time. From the tweet selection process, to recording, to legal review, to uploading to YouTube, every step of the way had to be flawless. <br /> <br /> Thanks to the unique nature of the campaign, Lay’s generated a ton of earned buzz across social, fueled by write ups on sites like ABC News, Huffington Post, and Ad Age. The campaign brought in thousands of new subscribers to Lay’s YouTube channel, snagging viewers for future campaigns. <br /> <br /> It’s hard to tell what was crazier – Brady’s songs or some of the fan submitted flavors, but either way, they all came together to create one memorable campaign launch.",
+				"media1_link":"https://player.vimeo.com/video/130517849",
+				"media1_title":"Melody's Hot Burning Ballad",
+				"media2_link":"https://player.vimeo.com/video/130517850",
+				"media2_title":"Chris' Cow-abunga Croon",
+				"img_jumbo":"005_Lays4.jpg",
+				"img_banner":"005_Lays8.jpg",
+				"img_back":"005_Lays6.jpg",
+				"url":"/dousaflavor"
+			}
+		},
+		{
+			"project":{
+				"id":6,
+				"name":"Beadle's Back",
+				"descrip_long":"Michelle Beadle stars in the trippiest welcome back video known to man for her return to SportsNation",
+				"descrip_short":"SportsNation sketch starring Michelle Beadle",
+				"client":"SportsNation",
+				"agency":"ESPN",
+				"prod_co":"MRB Productions",
+				"summary":"After a two year hiatus from SportsNation, ESPN wanted to celebrate Michelle Beadle’s return to the network in true SportsNation style: crazy as hell. <br /> <br /> There’s only one person in the world that can star in a comedy sketch with a dancing bear, Michael Jordan’s Birmingham Barons jersey, a neon lit fog machine dance stage, and a lip sync performance of ‘You’re the Best Around’ from the Karate Kid and have it still make sense – and that’s Michelle Beadle. <br /> <br /> Filmed over the course of two days, production was a whirlwind affair, snagging guest appearances from celebrities and ESPN personalities and lining up all of the production elements listed above. <br /> <br /> With a spot as crazy as this, you can bet SportsNation fans across the country tweeted about the video – not only because they were excited that Beadle was coming back to their favorite show, but also just to make sure that they weren’t tripping balls. It’s a welcome back SportsNation fans won’t soon forget.",
+				"media1_link":"https://player.vimeo.com/video/110200668",
+				"media1_title":"Michelle Beadle Returns",
+				"img_jumbo":"006_Beadle9.jpg",
+				"img_banner":"006_Beadle5.jpg",
+				"img_back":"006_Beadle2.jpg",
+				"url":"/beadlesback"
+			}
+		},
+		{
+			"project":{
+				"id":7,
+				"name":"West Orange Pride",
+				"descrip_long":"Kyrie Irving takes fans back to his hometown in this TV spot to tour his old stomping grounds",
+				"descrip_short":"TVC for Foot Locker featuring Kyrie Irving",
+				"client":"Foot Locker",
+				"agency":"ESPN Creative Works",
+				"prod_co":"MRB Productions",
+				"summary":"As a kid, you would never imagine that the store you obsessed about in high school would follow you back home to make a commercial about your life. But that’s exactly what happened to Kyrie Irving in this co-branded spot for Foot Locker and ESPN. <br /> <br /> Following Irving back to his hometown of West Orange, New Jersey, fans got a behind the scenes look of where it all started for Kyrie. We see him playing pick-up games on his favorite courts, getting some practice in at his old high school gym, and cruising around West Orange with his original crew. <br /> <br /> The spot required an extensive amount of research to ensure we asked Kyrie the right questions to get him to open up on camera. Aided by the fact that Kyrie legitimately loved Foot Locker growing up, it wasn’t hard to cut together an authentic :60 spot that aired regularly on ESPN. <br /> <br /> There’s nothing more powerful than coming home to make you realize how far you’ve come.",
+				"media1_link":"https://player.vimeo.com/video/79951295",
+				"media1_title":"Kyrie Irving for Foot Locker",
+				"img_jumbo":"007_Kyrie2.jpg",
+				"img_banner":"007_Kyrie1.jpg",
+				"img_back":"007_Kyrie6.jpg",
+				"url":"/kyrieirving"
+			}
+		},
+		{
+			"project":{
+				"id":8,
+				"name":"Twice in a Lifetime",
+				"descrip_long":"Pepsi's pre-Super Bowl hype spot that recreated the very first halftime show with Carol Channing",
+				"descrip_short":"Pepsi pre-Super Bowl spot starring Carol Channing",
+				"client":"Pepsi",
+				"agency":"The Barbarian Group",
+				"prod_co":"MRB Productions",
+				"summary":"To build up hype around Pepsi’s Super Bowl halftime sponsorship, Pepsi decided to try something a little different and recreate the very first halftime show with its original headliner: Carol Channing. And to have a little fun with it, Pepsi took it one step further by surprising someone who saw that first halftime show live with Pepsi’s recreation. <br /> <br /> The team at Pepsi told the lucky fan they were filming his bingo league for research on a Super Bowl documentary. Imagine his surprise when in between bingo games, the stage at his local VFW turned into a live performance by Carol Channing for his entire bingo group. <br /> <br /> The spot required a full day’s worth of rehearsals to coordinate confetti, banners, marching band, and Carol Channing, so when the big surprise came, it would go off without a hitch. The surprise was a huge success – everyone leaving with giant smiles from the big day. <br /> <br /> Pepsi also left with a giant smile on their face, getting press coverage from outlets across the country. This helped the spot take off online, generating excitement for Pepsi’s halftime show thanks to a blast from the past.",
+				"media1_link":"https://player.vimeo.com/video/110200671",
+				"media1_title":"Old School Halftime",
+				"img_jumbo":"008_Pepsi9.jpg",
+				"img_banner":"008_Pepsi10.jpg",
+				"img_back":"008_Pepsi2.jpg",
+				"url":"/twiceinalifetime"
+			}
+		},
+		{
+			"project":{
+				"id":9,
+				"name":"Visions",
+				"descrip_long":"Coke and McDonald's join forces for this TVC to promote their new $1 soft drink deal",
+				"descrip_short":"Co-branded Coke & McDonald's TV spot",
+				"client":"McDonald's and Coca-Cola",
+				"agency":"Muroch",
+				"prod_co":"MRB Productions",
+				"summary":"When two of the biggest brands in the world come together, it creates a deal so good that everything starts to feel magical. <br /> <br /> In this co-branded TV spot, an ordinary guy starts seeing magic everywhere he looks because the new $1 soft drink deal is too good to be true. From that classic golden glow of fresh McDonald’s fries to the effervescent bubbles of a refreshing Coke, life’s good when you’re getting a sweet deal. <br /> <br /> Customized per market (Coke vs. sweet tea, etc.) the TVC was specifically targeted per region to maximize impact, allowing for highly customized video pre-rolls on digital. <br /> <br /> The spot raised Coke’s brand awareness and brought in customers across the country to McDonald’s to quench their thirst on the cheap, proving that when it comes to soft drinks, they’re lovin’ it.",
+				"media1_link":"https://player.vimeo.com/video/80038934",
+				"media1_title":"McDonald's Visions",
+				"img_jumbo":"009_McD3.jpg",
+				"img_banner":"009_McD5.jpg",
+				"img_back":"009_McD4.jpg",
+				"url":"/visions"
+			}
+		},
+		{
+			"project":{
+				"id":10,
+				"name":"Magical Family Vacation",
+				"descrip_long":"SportsCenter anchor and NBA Countdown host Sage Steele shows fans her perfect day at Disney World",
+				"descrip_short":"Disney World TVC starring ESPN's Sage Steele",
+				"client":"Disney",
+				"agency":"ESPN Creative Works",
+				"prod_co":"MRB Productions",
+				"summary":"When you’re busy being the anchor of one of the most popular shows in the country (SportsCenter) along with hosting NBA Countdown for ABC, it’s hard to find time to get away. Luckily for Sage Steele, Disney World has everything she needs to have the perfect family vacation. <br /> <br /> Disney World is more magical than she remembers because of the FastPass system, letting her take the entire family on all her favorite rides without any hassle at all. And thanks to one of Disney World’s best kept secrets, its world class golf resort, Sage is still able to keep a little bit of sports in her life – even on vacation. <br /> <br /> Filmed over the course of two days, pre-production required a lot of planning with the Disney World team to figure out the best routes from location to location since the park was open to the public during filming. With the additional day spent getting aerial shots of the park, it was a fun experience not just for Sage and her family, but the crew as well. <br /> <br /> The spot aired as a 1:30 TV spot on ESPN, opening up the Disney World experience to a totally new fan base and giving one of ESPN’s hardest workers a well deserved vacation.",
+				"media1_link":"https://player.vimeo.com/video/79165083",
+				"media1_title":"Disney World: Sage Steele",
+				"img_jumbo":"010_Sage3.jpg",
+				"img_banner":"010_Sage4.jpg",
+				"img_back":"010_Sage2.jpg",
+				"url":"/sagesteele"
+			}
+		},
+		{
+			"project":{
+				"id":11,
+				"name":"Hero Dog Awards",
+				"descrip_long":"Hallmark Channel and American Humane Association's annual TV award show celebrating heroic dogs across America",
+				"descrip_short":"Hallmark Channel's annual TV award show for heroic dogs",
+				"client":"Hallmark Channel",
+				"agency":"American Humane Associaton",
+				"prod_co":"MRB Productions",
+				"summary":"While dog is certainly man’s best friend, there are dogs out there that go above and beyond. Whether it’s saving lives on the battlefield, working as drug and arson dogs, or detecting early onset cancer – these are ordinary dogs that do extraordinary things. <br /> <br /> The Hero Dog Awards is Hallmark Channel and American Humane Association’s annual televised award show to celebrate these amazing pups. Drawing in millions of votes from across the country, finalists are flown into Hollywood where they’re celebrated at a live award show, hosted by stars like Betty White, Kristin Chenoweth, and Joey Lawrence. <br /> <br /> As head writer and producer on the project, it was my responsibility to oversee creative and production of the pre-taped segments as production crews worked across the U.S. along with overseeing the live award show itself. <br /> <br /> The Hero Dog Awards is a tradition currently continuing in its fifth season and continues to not only draw attention to these incredible dogs, but the amazing charitable works of American Humane Association as well.",
+				"media1_link":"https://player.vimeo.com/video/133948318",
+				"media1_title":"Hero Dog Awards Show Reel",
+				"media2_link":"https://player.vimeo.com/video/62742316",
+				"media2_title":"American Humane Legacy Award: Betty White",
+				"media3_link":"https://player.vimeo.com/video/133939902",
+				"media3_title":"Therapy Dog: Elle",
+				"img_jumbo":"011_HDA6.jpg",
+				"img_banner":"011_HDA7.jpg",
+				"img_back":"011_HDA1.jpg",
+				"url":"/herodog"
+			}
+		},
+		{
+			"project":{
+				"id":12,
+				"name":"MP Marketing Playbook",
+				"descrip_long":"Designed to empower marketing teams with robust strategies and campaigns created specifically for MusclePharm.",
+				"descrip_short":"Go to market strategies for internal marketing teams",
+				"client":"MusclePharm",
+				"agency":"RED Interactive Agency",
+				"prod_co":"N/A",
+				"summary":"When you’re one of the fastest growing sports nutrition companies out there, you need a surefire way to scale your marketing operations quickly – a guide full of go to market strategies that anyone in the company can run with. <br /> <br /> Enter the MusclePharm Strategic Playbook, designed to empower marketing teams with robust strategies and campaigns crafted specifically for MusclePharm. The playbook codifies and organizes all of MusclePharm's assets and strengths so teams can take creative ideas and quickly apply a strategic layer, producing campaigns that are on brand, on audience, and on target. <br /> <br /> As senior producer on the project, I brought our creative and strategy teams together to work hand-in-hand on this unique guidebook, always ensuring it was easy for anyone to pick up and use. <br /> <br /> Filled with 200 pages of strategy and broken into 13 verticals, the playbook led MusclePharm to new quarterly revenue and sales backlog records, increased sales 21% Q/Q, and brought brand unity across all of MusclePharm’s consumer touchpoints.",
+				"media1_link":"MP1.png",
+				"media1_title":"Audience Personas",
+				"media2_link":"MP2.png",
+				"media2_title":"FitMiss Digital Platform",
+				"media3_link":"MP3.png",
+				"media3_title":"Nature Sport Poster Campaign",
+				"img_jumbo":"012_MP1.jpg",
+				"img_banner":"012_MP2.jpg",
+				"img_back":"012_MP3.jpg",
+				"url":"/musclepharm"
+			}
+		},
+		{
+			"project":{
+				"id":13,
+				"name":"uLoL Branding",
+				"descrip_long":"Branding and defintion for Riot Games' collegiate League of Legends program.",
+				"descrip_short":"Branding for Riot Games' collegiate program",
+				"client":"Riot Games",
+				"agency":"RED Interactive Agency",
+				"prod_co":"N/A",
+				"summary":"With over 27 million players daily, League of Legends is a massive game and community. At the center of that base are college students, and in order to better service this community, Riot needed a strategic partner to help understand the collegiate landscape and define their new college brand. <br /> <br /> Phase one of the project started with conducting primary research on college campuses across the country to hone in on what college League of Legends players wanted in an official sponsored program. That research resulted in key strategic guideposts that defined the program’s organizational set-up and structure. <br /> <br /> Phase two started with branding, listening to Riot’s hopes and dreams for the new program, writing the mission statement, defining the tone and voice, and creating a new visual identity: from logos, to color palettes, to typography, to brand extensions. <br /> <br /> As senior producer on the project, I lead both phases, starting with the strategy team to create robust insights and the creative team to hone in on branding Riot would love. <br /> <br /> After the program went live, fans across the country went wild because they felt like the it reflected who the community actually was. And not only was the program a success with the fans, but it helped Riot land official school sponsorships and scholarship programs across the country.",
+				"media1_link":"uLoL1.jpg",
+				"media1_title":"Campus Series Stylized Logo",
+				"media2_link":"uLoL2.png",
+				"media2_title":"uLoL Color System",
+				"media3_link":"uLoL3.jpg",
+				"media3_title":"Sample Campus Event Mockups",
+				"img_jumbo":"015_uLoL1.jpg",
+				"img_banner":"015_uLoL2.jpg",
+				"img_back":"015_uLoL3.jpg",
+				"url":"/uLoL"
+			}
+		},
+		{
+			"project":{
+				"id":14,
+				"name":"System of Play",
+				"descrip_long":"Video and digital campaign showing LEGO feeds kids’ imaginations through every age and stage of development.",
+				"descrip_short":"Video and digital campaign showcasing lifetime value",
+				"client":"LEGO",
+				"agency":"RED Interactive Agency",
+				"prod_co":"The Whitelist Collective",
+				"summary":"One of the most beloved toy brands in the world, LEGO has an appeal that spans across generations – it grows with you and your kids as they get older. The LEGO bricks a child plays with at five can be used with bricks they play with for years to come, what LEGO calls Lifetime Value. <br /> <br /> LEGO wanted to make that brand positioning come to life with a video and digital campaign, demonstrating that this Lifetime Value feeds kids’ imaginations through every age and stage of development. <br /> <br /> As senior producer on the project, I worked with both the video and digital teams to build a campaign that got to the heart of that value proposition: “One Red Brick”. Told through a :30 TV spot and a digital platform with idea discovery tools for parents, we showed that sometimes all it takes to shape your child’s imagination is One Red Brick. <br /> <br /> The TV spot aired in December and took off online, racking up more than 4.9 million views on YouTube with a 97% audience retention rate, encouraging families across the world to spur on their kids’ creative side.",
+				"media1_link":"https://player.vimeo.com/video/157986535",
+				"media1_title":"One Red Brick TV Spot",
+				"media2_link":"SOP.png",
+				"media2_title":"Digital Platform",
+				"img_jumbo":"014_SOP1.jpg",
+				"img_banner":"014_SOP2.jpg",
+				"img_back":"014_SOP3.jpg",
+				"url":"/SOP"
+			}
+		},
+				{
+			"project":{
+				"id":15,
+				"name":"The Siege Games",
+				"descrip_long":"A multi-city blowout campaign ending in Siege Day - a massive one-day eSports-style head-to-head tournament.",
+				"descrip_short":"Live streamed Twitch campaign for Rainbow Six | Siege",
+				"client":"Ubisoft",
+				"agency":"RED Interactive Agency",
+				"prod_co":"N/A",
+				"summary":"After a six-year hiatus, Ubisoft brought back its hugely popular Rainbow Six series with a new game that tapped into the eSports market and brought shooters to a whole new tactical level: Rainbow Six | Siege. Ubisoft needed to tap into old school Rainbow Six fans, but also needed to introduce the franchise to a whole new audience. And they needed a big campaign to do it. <br /> <br /> The Siege Games was a multi-city blowout event that took place at gaming’s biggest events (E3, PAX, SDCC, RTX) and gave gamers a chance to preview the latest build of the game. They also got the chance to compete against other fans to attend Siege Day - a massive one-day eSports-style head-to-head tournament with celebrity guests and loads of surprises, all LIVE-streamed on Twitch and YouTube Gaming. <br /> <br /> As senior producer, I worked to bring the entire campaign to life, concepting the initial campaign idea, branding the entire experience, and planning events, social media campaigns, video spots, and the digital platform – even running the live social media war room on Siege Day. <br /> <br /> The Siege Games generated over 3 million video views and 130 chats per minute in the Twitch stream, becoming Ubisoft’s most watched lifestream ever (beating Assassin’s Creed by 15%), and increased engagement on Rainbow Six’s Twitter account 3.7x. The campaign paid off, breaking Ubisoft’s pre-order goals by 170%. The Siege Games proved to be not only a hit with the fans, but to Ubisoft’s internal teams as well.",
+				"media1_link":"https://player.vimeo.com/video/157985240",
+				"media1_title":"SDCC Recap Video",
+				"media2_link":"https://player.vimeo.com/video/157985239",
+				"media2_title":"Rooster Teeth Hype Video",
+				"media3_link":"friendly_fire.jpg",
+				"media3_title":"Live Social Media Reactions",
+				"img_jumbo":"013_R61.jpg",
+				"img_banner":"013_R62.jpg",
+				"img_back":"013_R63.jpg",
+				"url":"/rainbowsix"
+			}
+		}
+	]
+}

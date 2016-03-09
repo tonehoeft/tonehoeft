@@ -1,0 +1,343 @@
+@font-face{
+    font-family: "Brandon Grotesque";
+    src: url('../fonts/BrandonGrotesque/Brandon_reg.otf');
+}
+
+@font-face{
+    font-family: "Scout Condensed";
+    src: url('../fonts/ScoutCondensed/ScoutCond-Regular.ttf');
+}
+
+html,
+body {
+    height: 100%;
+}
+
+h1,
+.h1 {
+    font-size: 75px;
+    margin-bottom: 0px;
+}
+
+.carousel h1,
+.carousel .h1 {
+    margin-bottom: -5px;
+    padding-bottom: 0;
+}
+
+h2,
+.h2 {
+    font-size: 45px;
+}
+
+h3,
+.h3 {
+    font-size: 35px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: "Scout Condensed", "Helvetica Neue", Helvetica, Tahoma, sans-serif;
+}
+
+body {
+    font-family: "Brandon Grotesque", "Helvetica Neue", Helvetica, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #000;
+}
+
+.navbar-hero .navbar-brand {
+    font-family: "Scout Condensed", "Helvetica Neue", Helvetica, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 31px;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color: #fff;
+}
+
+#project-wrapper .navbar-hero .navbar-brand {
+    color: #000;
+}
+
+.navbar-hero .navbar-brand:hover {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#project-wrapper .navbar-hero .navbar-brand:hover {
+    color: #FFF;
+    text-shadow: 0 1px 2px rgba(0,0,0,.2)
+}
+
+.navbar-brand small {
+    display:block;
+    font-family: "Brandon Grotesque", "Helvetica Neue", Helvetica, Tahoma, sans-serif;
+    padding-left: 3px;
+    font-size: 17px;
+    text-transform: none;
+}
+
+.navbar-hero .navbar-toggle {
+    color: #fff;
+    border: 2px solid #fff;
+    margin-top: -4px;
+}
+
+#project-wrapper .navbar-hero .navbar-toggle {
+    color: #000;
+    border: 2px solid #000;
+}
+
+.navbar-hero .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+#project-wrapper .navbar-hero .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+
+.navbar-hero ul.navbar-right a {
+    font-family: "Scout Condensed", "Helvetica Neue", Helvetica, Tahoma, sans-serif;
+    background-color: transparent;
+    color: #fff;
+    font-size: 30px;
+    margin-top: -14px;
+    line-height: 35px;
+
+}
+
+#project-wrapper .navbar-hero ul.navbar-right a {
+    color: #000;
+
+}
+
+.navbar-hero ul.navbar-right a:hover {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#project-wrapper .navbar-hero ul.navbar-right a:hover {
+    color: #FFF;
+    text-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+
+.navbar {
+    padding-top: 23px;
+    padding-bottom: 5px;
+    border: none;
+}
+
+.navbar-hero {
+    margin-bottom: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    border-radius: 0;
+}
+
+.carousel,
+.item {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel-indicators {
+    bottom: -8px;
+}
+
+.carousel-indicators span {
+    color: #fff;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.fill2 {
+    min-height: 100%;
+    min-widht: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.carousel-inner a {
+    color: #fff;
+}
+
+.carousel-inner a:hover {
+    text-decoration: none;
+}
+
+.carousel-inner a h1:hover, .carousel-inner a p:hover {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#master-wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.home-about h2 {
+    margin-top: 8px;
+    margin-bottom: 4px;
+}
+
+.home-about {
+    background: #fbfafa;
+}
+
+.home-about .col-xs-10 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.project-list {
+    width: 100%;
+    height: 30%;
+}
+
+.project-list .row, .home-about .row {
+    margin-left: 0;
+    margin-right: 0;
+    border: 1px solid #353535;
+}
+
+.project-list .project-row .vcenter {
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+
+.project-list h2, .project-list p {
+}
+
+.project-list a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.project-list a:hover .project-row .vcenter {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,1px 1px 0 #000;
+}
+
+#project-wrapper {
+    color: #000;
+}
+
+.project-left {
+    margin-top: 80px;
+    padding-left: 75px;
+}
+
+.project-left small p {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.project-left .summary {
+    padding-top: 15px;
+}
+
+.project-right {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 110px;
+    text-align: center;
+}
+
+.project-right p {
+    margin-top: 0;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+@media (max-width: 991px) {
+    .project-left.col-xs-12 {
+        text-align: center;
+        margin-left: 0;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .project-right {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 766px) {
+.collapsing, .in {background-color: rgba(0, 0, 0, .3);}
+.collapsing ul li a, .in ul li a {color: #FFF!important;}
+.collapsing ul li a:hover, .in ul li a:hover {color: #f1f1f1!important;}
+
+@media (min-width: 768px) and (max-width: 991px) { 
+    h1,
+        .h1 {
+        font-size: 60px;
+    }
+
+    h2,
+    .h2 {
+        font-size: 40px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    body {
+        font-size: 18px;
+    }
+
+    h1,
+        .h1 {
+        font-size: 55px;
+    }
+
+    h2,
+    .h2 {
+        font-size: 35px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 30px;
+    }
+
+}

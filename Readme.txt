@@ -1,1 +1,1 @@
-Personal website for Tone Hoeft built with Bootstrap, Sass, and Ember.js.
+Personal website built using Bootstrap, playing around with custom JSON data sets.
